@@ -15,7 +15,7 @@ O experimento demonstrou a eficiência da simplificação proposta pelo Keras, a
 
 | Métrica | Resultado |
 | :--- | :--- |
-| **Acurácia (Teste)** | **97.65%** |
+| **Acurácia (Teste)** | **97.31%** |
 | **Arquitetura** | MLP (Dense Layers) |
 | **Otimizador** | Adam |
 | **Backend** | TensorFlow (via Keras 3) |
