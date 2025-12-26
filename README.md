@@ -76,7 +76,6 @@ Este projeto foi desenvolvido em conjunto por:
   * [LinkedIn](https://www.linkedin.com/in/adryel-almeida-052365321/) | [GitHub](https://github.com/Adryel7)
   
 * **Felipe S. de Lima**
-  * [LinkedIn](https://www.linkedin.com/in/felipe-salles-6007ba176/) | [GitHub](https://github.com/seu-usuario)
-
+  * [LinkedIn](https://www.linkedin.com/in/felipe-salles-6007ba176/)
 * **Lucas C. Junker**
-  * [LinkedIn](https://www.linkedin.com/in/lucas-junker-978748148/) | [GitHub](https://github.com/seu-usuario)
+  * [LinkedIn](https://www.linkedin.com/in/lucas-junker-978748148/)
