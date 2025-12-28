@@ -27,7 +27,9 @@ Você pode visualizar e executar este projeto de duas formas: na nuvem ou localm
 ### Opção 1: Google Colab (Recomendado)
 A maneira mais rápida de testar sem instalar nada. O ambiente já conta com GPU configurada.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M3-VpCAZIu1rjcRALogRUz6fwBtqVWgf?usp=sharingtarget="_blank")
+<a href="SEU_LINK_DO_COLAB_AQUI" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 
